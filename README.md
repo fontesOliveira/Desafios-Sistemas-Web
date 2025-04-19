@@ -1,6 +1,6 @@
 <h1>Desafios Sistemas Web</h1>
 
-Bem-vindo ao repositório da nossa página web dedicada aos desafios da disciplina de Sistemas Web! Este projeto foi desenvolvido como parte do nosso curso e tem como objetivo apresentar de forma clara e interativa os desafios enfrentados ao longo do semestre. Você pode acessar os desafios pelo link: https://desafiosistemasweb.com.br/ 
+Bem-vindo ao repositório da nossa página web dedicada aos desafios da disciplina de Sistemas Web! Este projeto foi desenvolvido como parte do nosso curso e tem como objetivo apresentar de forma clara e interativa os desafios enfrentados ao longo do semestre. Você pode acessar os desafios pelo link: <a href="https://desafiosistemasweb.com.br/" target="_blanl">Desafios Sistemas Web</a>
 
 <h2>
 📚 Sobre o Projeto  
@@ -33,7 +33,7 @@ Para dúvidas ou sugestões, entre em contato:
 <ul>
   <li>Nome: Pedro Fontes</li>
   <li>Email: pedro.hfontes@a.unileste.edu.br</li>
-  <li>LinkedIn: https://www.linkedin.com/in/pedro-fontes-tech/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3Ba1pEuY4HQGuiVyXd29B2Cw%3D%3D</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/pedro-fontes-tech/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3Ba1pEuY4HQGuiVyXd29B2Cw%3D%3D"  target="_blank">pedro-fontes-tech</a></li>
 </ul>
 
 <h2>
