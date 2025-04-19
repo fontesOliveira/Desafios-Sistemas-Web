@@ -1,8 +1,6 @@
-# Desafios-Sistemas-Web
+<h1>Desafios Sistemas Web</h1>
 
-<h1>Desafios da Disciplina Sistemas Web</h1>
-
-Bem-vindo ao repositório da nossa página web dedicada aos desafios da disciplina de Sistemas Web! Este projeto foi desenvolvido como parte do nosso curso e tem como objetivo apresentar de forma clara e interativa os desafios enfrentados ao longo do semestre.
+Bem-vindo ao repositório da nossa página web dedicada aos desafios da disciplina de Sistemas Web! Este projeto foi desenvolvido como parte do nosso curso e tem como objetivo apresentar de forma clara e interativa os desafios enfrentados ao longo do semestre. Você pode acessar os desafios pelo link: https://desafiosistemasweb.com.br/ 
 
 <h2>
 📚 Sobre o Projeto  
@@ -13,15 +11,13 @@ A disciplina de Sistemas Web nos proporcionou uma rica experiência de aprendiza
 🚀 Funcionalidades  
 </h2>
 <ul>
-  <li>Apresentação dos Desafios: Cada desafio é descrito com detalhes, incluindo objetivos, tecnologias utilizadas e resultados obtidos.</li>
-  <li>Interatividade: Navegue por uma interface amigável e intuitiva, com links para recursos adicionais e exemplos práticos.</li>
+  <li>Interatividade: Navegue por uma interface amigável e intuitiva.</li>
   <li>Responsividade: A página é otimizada para diferentes dispositivos, garantindo uma experiência de usuário fluida em desktops, tablets e smartphones.</li>
 </ul>
 
 <h2>
 🛠 Tecnologias Utilizadas  
 </h2>
-
 <ul>
   <li>HTML5: Estruturação do conteúdo da página.</li>
   <li>CSS3: Estilização e design responsivo.</li>
@@ -29,13 +25,16 @@ A disciplina de Sistemas Web nos proporcionou uma rica experiência de aprendiza
   <li>Frameworks: Utilização de frameworks como Bootstrap para facilitar o desenvolvimento.</li>
 </ul>
 
-
-📫 Contato
+<h2>
+📫 Contato  
+</h2>
 Para dúvidas ou sugestões, entre em contato:
 
-Nome: Pedro Fontes
-Email: pedro.hfontes@a.unileste.edu.br
-LinkedIn: https://www.linkedin.com/in/pedro-fontes-tech/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3Ba1pEuY4HQGuiVyXd29B2Cw%3D%3D
+<ul>
+  <li>Nome: Pedro Fontes</li>
+  <li>Email: pedro.hfontes@a.unileste.edu.br</li>
+  <li>LinkedIn: https://www.linkedin.com/in/pedro-fontes-tech/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3Ba1pEuY4HQGuiVyXd29B2Cw%3D%3D</li>
+</ul>
 
 <h2>
 🎉 Agradecimentos  
